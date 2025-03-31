@@ -122,7 +122,3 @@ The objective is to design, implement, and evaluate a deep learning sentiment an
 - **Real-time Sentiment Tracking:**  
     - Develop a real-time dashboard to monitor sentiment trends and provide actionable insights.
 
----
-
-## 📚 License
-This project is licensed under the **MIT License**
